@@ -1,6 +1,6 @@
-import './Titulo.css'
+import './Header.css'
 
-function Titulo() {
+function Header() {
     return (
         <>
         <header>
@@ -15,4 +15,4 @@ function Titulo() {
     )
 }
 
-export default Titulo
+export default Header

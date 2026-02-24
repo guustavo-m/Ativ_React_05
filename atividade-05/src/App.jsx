@@ -3,7 +3,7 @@ import frontend from './assets/img/frontend.jfif';
 import responsive from './assets/img/responsive.jpg';
 import performance from './assets/img/performance.jfif';
 import acessibility from './assets/img/acessibility.jfif';
-import Titulo from './components/Titulo/Titulo'
+import Header from './components/Header/Header'
 import Footer from './components/Footer/Footer'
 import Card from './components/Card/Card'
 import Topper from './components/Topper/Topper'
@@ -13,7 +13,7 @@ import Bluebox from './components/Bluebox/Bluebox'
 function App() {
   return (
     <>
-      <Titulo/>
+      <Header/>
       <Topper/>
       <Phrase/>
       <section class="cards">
