@@ -1,0 +1,16 @@
+.bluebox {
+    background-color: var(--azulm);
+    text-align: center;
+    color: var(--branco);
+    padding: 65px;
+    margin: 75px 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+
+.bluebox p {
+    font-size: 16px;
+}

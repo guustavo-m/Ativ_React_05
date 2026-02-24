@@ -1,0 +1,15 @@
+.phrase {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    justify-content: center;
+    background-color: var(--azulclaro);
+    padding: 90px;
+    font-size: 25px;
+}
+
+.name {
+    color: var(--azulm);
+    font-size: 20px;
+}
